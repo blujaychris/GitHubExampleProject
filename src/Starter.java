@@ -8,3 +8,11 @@ public class Starter {
     }
 
 }
+//KLONOWANIE:
+//    robimy folder- mkdir klonowanie
+//    wchodzimy w klonowanie- cd klonowanie
+//    klonujemy- git 'link do gita z ktorego klonujemy'
+//    patrzymy czy sklonowalo- ls
+//     importujemy
+
+//Dodawanie kolaborantow
